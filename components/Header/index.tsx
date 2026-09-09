@@ -30,7 +30,7 @@ const Header = () => {
     return () => window.removeEventListener("scroll", handleStickyMenu);
   }, []);
 
-  // Scroll-spy: hanya jalan di halaman "/" karena section hash ada di sana
+  // Scroll-spy
   useEffect(() => {
     if (pathUrl !== "/") {
       setActiveSection("");

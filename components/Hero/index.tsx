@@ -11,7 +11,7 @@ const stats = [
 const Hero = () => {
   return (
     <>
-      <section className="overflow-hidden pb-20 pt-28 md:pt-32 xl:pb-25 xl:pt-36">
+      <section id="hero" className="overflow-hidden pb-20 pt-28 md:pt-32 xl:pb-25 xl:pt-36">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           <div className="flex flex-col gap-12 lg:flex-row lg:items-center lg:gap-8 xl:gap-32.5">
             {/* Left column */}
