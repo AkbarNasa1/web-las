@@ -1,17 +1,12 @@
-# Solid – Free Tailwind CSS & Next.js SaaS Website Template
+# CV MITRA SUPPLY SPACE
 
 #### Preview
-
- - [Demo](https://themewagon.github.io/solid/)
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/solid/)
-
+-
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/solid.git
+git clone https://github.com/.......
 ```
 2. Install Dependencies
 ```

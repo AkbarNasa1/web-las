@@ -90,8 +90,7 @@ const Hero = () => {
               className="w-full lg:w-1/2"
             >
               <div className="relative">
-                {/* Blob gradient dekoratif di belakang foto - murni CSS,
-                    tidak butuh file gambar sehingga tidak akan pernah 404 */}
+                {/* Blob gradient dekoratif di belakang foto */}
                 <div className="absolute -inset-6 -z-1 rounded-[2rem] bg-gradient-to-br from-primary/20 via-transparent to-meta/20 blur-2xl" />
 
                 <div className="relative aspect-[700/560] w-full overflow-hidden rounded-2xl bg-gradient-to-br from-slate-800 to-slate-950 shadow-solid-l">
