@@ -2,6 +2,12 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 
+const targetPhoneNumber = "6281563996642";
+const defaultMessage = encodeURIComponent(
+  "Halo Bengkel Las Berkah Amanah, saya ingin berkonsultasi mengenai layanan las."
+);
+const waLink = `https://wa.me/${targetPhoneNumber}?text=${defaultMessage}`;
+
 const stats = [
   { value: "10+", label: "Tahun Pengalaman" },
   { value: "500+", label: "Proyek Selesai" },
@@ -41,11 +47,14 @@ const Hero = () => {
               </p>
 
               <div className="mt-8 flex flex-wrap items-center gap-4">
+                {/* Tombol WhatsApp yang sudah diperbaiki */}
                 <a
-                  href="/#contact"
+                  href={waLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="flex items-center gap-2 rounded-full bg-black px-7.5 py-3 font-medium text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
                 >
-                  Konsultasi Gratis
+                  Konsultasi Via WhatsApp
                   <svg
                     width="14"
                     height="14"
