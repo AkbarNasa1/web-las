@@ -5,7 +5,6 @@ import Feature from "@/components/Features";
 import About from "@/components/About";
 import FeaturesTab from "@/components/FeaturesTab";
 import FunFact from "@/components/FunFact";
-import Integration from "@/components/Integration";
 import CTA from "@/components/CTA";
 import FAQ from "@/components/FAQ";
 import Pricing from "@/components/Pricing";
@@ -26,10 +25,6 @@ export default function Home() {
       <Hero />
       <About />
       <Feature />
-      <FeaturesTab />
-      <FunFact />
-      <Integration />
-      <CTA />
       <FAQ />
       <Blog />
       <Testimonial />
