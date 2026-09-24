@@ -4,44 +4,44 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Crafted for SaaS",
+    title: "Pagar Besi",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Pagar minimalis, tempa, dan sliding yang kuat, rapi, dan tahan karat untuk rumah maupun gedung.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
-    title: "High-quality Design",
+    title: "Kanopi",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Kanopi carport dan teras dari baja ringan, alderon, atau polycarbonate yang melindungi dari panas dan hujan.",
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Next.js 13 + TypeScript",
+    title: "Teralis",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Teralis jendela dan pintu dengan desain aman namun tetap estetik, dibuat sesuai ukuran.",
   },
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Sanity Blog and Docs",
+    title: "Railing Tangga",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Railing besi atau kombinasi kayu dan stainless yang kokoh, aman, dan mempercantik tangga.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "DB, Auth and Stripe",
+    title: "Konstruksi Baja",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Struktur baja untuk ruko, gudang, dan bangunan lain, dikerjakan dengan perhitungan dan pengelasan yang presisi.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Regular Free Updates",
+    title: "Pintu & Gerbang",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Pintu besi dan gerbang swing atau sliding yang aman, tahan lama, dan dibuat sesuai desain rumah Anda.",
   },
 ];
 

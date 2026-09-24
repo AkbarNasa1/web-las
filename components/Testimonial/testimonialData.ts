@@ -5,34 +5,51 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Budi Santoso",
+    designation: "Pemilik Rumah",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Pagar besinya rapi dan pengelasannya halus. Dikerjakan tepat waktu sesuai janji, hasilnya persis seperti yang saya minta.",
   },
   {
     id: 2,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
-    image: image2,
+    name: "Rina Wulandari",
+    designation: "Pemilik Rumah",
+    image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Kanopi carport dipasang cepat dan kuat. Sudah dua kali musim hujan, tidak ada yang bocor dan tetap kokoh.",
   },
   {
     id: 3,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Hendra Pratama",
+    designation: "Pemilik Ruko",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Teralis semua jendela ruko dibuat pas ukuran dan modelnya bagus. Harganya juga jelas dari awal, tidak ada biaya tambahan.",
   },
   {
     id: 4,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Dewi Lestari",
+    designation: "Pemilik Rumah",
+    image: image1,
+    content:
+      "Railing tangga kombinasi kayu dan stainless hasilnya kokoh dan enak dilihat. Anak-anak jadi lebih aman naik turun tangga.",
+  },
+  {
+    id: 5,
+    name: "Agus Salim",
+    designation: "Pemilik Gudang",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Rangka baja gudang kami dikerjakan dengan perhitungan yang jelas. Tim profesional dan area kerja selalu dirapikan setiap hari.",
+  },
+  {
+    id: 6,
+    name: "Yusuf Maulana",
+    designation: "Kontraktor",
+    image: image2,
+    content:
+      "Sudah beberapa kali kerja sama untuk proyek baja. Komunikasinya enak, hasilnya konsisten, dan revisi selalu dilayani.",
   },
 ];
+
